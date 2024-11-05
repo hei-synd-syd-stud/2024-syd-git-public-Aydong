@@ -24,6 +24,7 @@ HEAD et main nous signifie sur quelle branche nous sommes
 Entre parenthèse c'est le nom de la branche sur laquelle le commit a été fait
 
 ### Task 6
+Lors du checkout avec le premier commit, tous le smodification du fichier "answers.md" ont été supprimé et le fichier "README.md" a été supprimé. Lors du checkout avec le main, les modifications du fichier "answers.md" ont été rétabli et le fichier "README.md" a été rétabli.
 
 ## Gitgraph
 
